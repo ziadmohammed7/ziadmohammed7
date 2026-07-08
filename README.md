@@ -309,39 +309,24 @@ Giza Region Level — Qualified for the Ministry of Higher Education regional co
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ziadmohammed7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadmohammed7&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadmohammed7&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ziadmohammed7&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ziadmohammed7&theme=tokyonight&utcOffset=2" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziadmohammed7&theme=tokyo-night&hide_border=true&area=true" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ziadmohammed7&theme=tokyonight" />
 
 </div>
 
----
-
-## Contact
+<br/>
 
 <div align="center">
 
-<a href="mailto:mohammedziad118@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mohammedziad118%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ziadmohammed-automotive">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/ziadmohammed7">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img width="60%" src="https://streak-stats.demolab.com?user=ziadmohammed7&theme=tokyonight&hide_border=true" />
 
 </div>
 
