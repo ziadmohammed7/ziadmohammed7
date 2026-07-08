@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:22C55E&height=210&section=header&text=Ziad%20Mohamed%20Fathy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Telecommunications%20Engineer%20%7C%20AIoT%20%26%20LPWAN%20Researcher%20%7C%20Embedded%20Systems&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:0F172A,50:0EA5E9,100:22C55E&text=Ziad%20Mohamed%20Fathy&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Telecommunications%20Engineer%20%7C%20AIoT%20and%20LPWAN%20Researcher%20%7C%20Embedded%20Systems&descAlignY=58&descSize=16" alt="Ziad Mohamed Fathy Banner" />
 
 </div>
 
