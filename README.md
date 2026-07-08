@@ -210,63 +210,175 @@ A simulation-based LoRaWAN study evaluating **channel diversity**, **SINR-aware 
 - Improved battery lifetime by **9.4%** at **400 nodes**
 
 ---
-
 ## Skills
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/C-0F172A?style=flat-square&logo=c&logoColor=A8B9CC" />
-<img src="https://img.shields.io/badge/C++-0F172A?style=flat-square&logo=cplusplus&logoColor=00599C" />
-<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=F89820" />
-<img src="https://img.shields.io/badge/Dart-0F172A?style=flat-square&logo=dart&logoColor=0175C2" />
-<img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/MATLAB-0F172A?style=flat-square" />
-<img src="https://img.shields.io/badge/PHP-0F172A?style=flat-square&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+  <img src="https://img.shields.io/badge/C++-0F172A?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=F89820" />
+  <img src="https://img.shields.io/badge/Dart-0F172A?style=for-the-badge&logo=dart&logoColor=0175C2" />
+  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MATLAB-0F172A?style=for-the-badge&logo=mathworks&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=777BB4" />
 </p>
 
-### Embedded Systems & IoT
+</td>
+<td width="50%" valign="top">
+
+### Embedded Systems & Hardware
 
 <p>
-<img src="https://img.shields.io/badge/ESP32-111827?style=flat-square&logo=espressif&logoColor=E7352C" />
-<img src="https://img.shields.io/badge/Arduino-111827?style=flat-square&logo=arduino&logoColor=00979D" />
-<img src="https://img.shields.io/badge/AVR-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Embedded%20C-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/UART-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/SPI-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/I2C-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/RTOS%20Basics-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embedded%20C-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ESP32-111827?style=for-the-badge&logo=espressif&logoColor=E7352C" />
+  <img src="https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino&logoColor=00979D" />
+  <img src="https://img.shields.io/badge/AVR-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ARM%20Basics-111827?style=for-the-badge&logo=arm&logoColor=0091BD" />
+  <img src="https://img.shields.io/badge/UART-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SPI-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/I2C-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Timers-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interrupts-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ADC-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PWM-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RTOS%20Basics-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CAN%20Fundamentals-111827?style=for-the-badge" />
 </p>
 
-### Communication & Simulation
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### IoT, LPWAN & Communication
 
 <p>
-<img src="https://img.shields.io/badge/LoRa-0F172A?style=flat-square" />
-<img src="https://img.shields.io/badge/LoRaWAN-0F172A?style=flat-square" />
-<img src="https://img.shields.io/badge/LPWAN-0F172A?style=flat-square" />
-<img src="https://img.shields.io/badge/SX1276-0F172A?style=flat-square" />
-<img src="https://img.shields.io/badge/SX1278-0F172A?style=flat-square" />
-<img src="https://img.shields.io/badge/OMNeT++-0F172A?style=flat-square" />
-<img src="https://img.shields.io/badge/LoRaSim-0F172A?style=flat-square" />
-<img src="https://img.shields.io/badge/RSSI%2FSNR%20Analysis-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/LoRa-0B1120?style=for-the-badge&logo=semtech&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/LoRaWAN-0B1120?style=for-the-badge&logo=thealgorithms&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/LPWAN-0B1120?style=for-the-badge&logo=signal&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/SX1276-0B1120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SX1278-0B1120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RSSI%2FSNR%20Analysis-0B1120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PDR%20Analysis-0B1120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TDMA%20Scheduling-0B1120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase%20Realtime%20DB-0B1120?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
 </p>
 
-### Software, QA & Data
+</td>
+<td width="50%" valign="top">
+
+### Simulation & Data Analysis
 
 <p>
-<img src="https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=02569B" />
-<img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=FFCA28" />
-<img src="https://img.shields.io/badge/PyQt5-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=5C3EE8" />
-<img src="https://img.shields.io/badge/Selenium-111827?style=flat-square&logo=selenium&logoColor=43B02A" />
-<img src="https://img.shields.io/badge/TestNG-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Maven-111827?style=flat-square&logo=apachemaven&logoColor=C71A36" />
-<img src="https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=FF6C37" />
-<img src="https://img.shields.io/badge/Jira-111827?style=flat-square&logo=jira&logoColor=0052CC" />
+  <img src="https://img.shields.io/badge/OMNeT++-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LoRaSim-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=013243" />
+  <img src="https://img.shields.io/badge/SciPy-111827?style=for-the-badge&logo=scipy&logoColor=8CAAE6" />
+  <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Battery%20Lifetime%20Analysis-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Energy--Reliability%20Evaluation-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI--Assisted%20Monitoring-111827?style=for-the-badge&logo=openai&logoColor=22C55E" />
 </p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Software Development
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/PyQt5-0F172A?style=for-the-badge&logo=qt&logoColor=41CD52" />
+  <img src="https://img.shields.io/badge/OpenCV-0F172A?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
+  <img src="https://img.shields.io/badge/ReportLab-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Desktop%20Applications-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Windows%20Packaging-0F172A?style=for-the-badge&logo=windows&logoColor=0078D6" />
+  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### Testing & QA
+
+<p>
+  <img src="https://img.shields.io/badge/Manual%20Testing-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STLC-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SDLC-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Selenium%20WebDriver-111827?style=for-the-badge&logo=selenium&logoColor=43B02A" />
+  <img src="https://img.shields.io/badge/TestNG-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Maven-111827?style=for-the-badge&logo=apachemaven&logoColor=C71A36" />
+  <img src="https://img.shields.io/badge/ExtentReports-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Testing-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/SQL%20Validation-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jira-111827?style=for-the-badge&logo=jira&logoColor=0052CC" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Cybersecurity Basics
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-0B1120?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Networking%20Fundamentals-0B1120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-0B1120?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0B1120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metasploitable-0B1120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kioptrix-0B1120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Basic%20Penetration%20Testing-0B1120?style=for-the-badge" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### AI Data Work
+
+<p>
+  <img src="https://img.shields.io/badge/Data%20Annotation-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Speech%2FAudio%20Annotation-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Response%20Evaluation-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coding%20Evaluation-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transcription%20Quality%20Review-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Classification-111827?style=for-the-badge" />
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
+
+### Soft Skills
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Problem%20Solving-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Teamwork-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Leadership-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Critical%20Thinking-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Technical%20Communication-EF4444?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Analytical%20Thinking-14B8A6?style=for-the-badge" />
+
+</div>
 
 ## Achievements
 
